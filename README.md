@@ -1,3 +1,12 @@
+ ```
+ TRUKSTA COMMITU NES BUVAU ANKSCIAU JUOS PADARES PO TO PARSISIUNCIAU ZIPA IR KEICIAU TIEK ZIPA TIEK CIA README FAILA IR ipushintus pradingo commitai. PAVYKO IS ESMES GRYSTI TIK VAT TAIP IR PERRASYTI README FAILA NES NEMOKEJAU SUSITVARKYTI SU PAMESTAIS COMMITAIS
+ 
+ ```
+ 
+ 
+ 
+ 
+ 
  (v0.1)-V0.2:
  
  Pasidariau per faila ivedima visu studentu duomenu ir juos isvedziau atitinkamu formatu taip pat ivedziau ir medianos skaiciavima
