@@ -15,17 +15,19 @@
   Generator yra nauju studentu generavimas i faila
   Differentiator yra diferencijavimas studentu i dvi grupes.
   ```
-10 studentu Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.6911725
-100 studentu Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.6911725
-1000 studentu Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.6911725
-10000 studentu Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 1.6911725
-100000 studentu Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 4.6911725
+10 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4667018
+100 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4679326
+1000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4972285
+10000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.7064844
+100000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 2.7632304
 
-10 studentu Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 4.6911725
-100 studentu Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 4.6911725
-1000 studentu Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 4.6911725
-10000 studentu Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 4.6911725
-100000 studentu Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 5.6911725
+
+10 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4633876
+100 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4626281
+1000 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4653419
+10000 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4945685
+100000 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.7725709
+
 ```
   (v0.5):
 LinkedList time
