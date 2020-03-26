@@ -1,0 +1,7 @@
+C:\Users\rolandas\Desktop\IPA-master\2laboratorinis\bin\Debug\2laboratorinis.exe.config
+C:\Users\rolandas\Desktop\IPA-master\2laboratorinis\bin\Debug\2laboratorinis.exe
+C:\Users\rolandas\Desktop\IPA-master\2laboratorinis\bin\Debug\2laboratorinis.pdb
+C:\Users\rolandas\Desktop\IPA-master\2laboratorinis\obj\Debug\2laboratorinis.csprojAssemblyReference.cache
+C:\Users\rolandas\Desktop\IPA-master\2laboratorinis\obj\Debug\2laboratorinis.csproj.CoreCompileInputs.cache
+C:\Users\rolandas\Desktop\IPA-master\2laboratorinis\obj\Debug\2laboratorinis.exe
+C:\Users\rolandas\Desktop\IPA-master\2laboratorinis\obj\Debug\2laboratorinis.pdb

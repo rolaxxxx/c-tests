@@ -1,0 +1,13 @@
+C:\Users\rolandas\source\repos\lab_darbas\lab_darbas\bin\Debug\lab_darbas.exe.config
+C:\Users\rolandas\source\repos\lab_darbas\lab_darbas\bin\Debug\lab_darbas.exe
+C:\Users\rolandas\source\repos\lab_darbas\lab_darbas\bin\Debug\lab_darbas.pdb
+C:\Users\rolandas\source\repos\lab_darbas\lab_darbas\obj\Debug\lab_darbas.csprojAssemblyReference.cache
+C:\Users\rolandas\source\repos\lab_darbas\lab_darbas\obj\Debug\lab_darbas.csproj.CoreCompileInputs.cache
+C:\Users\rolandas\source\repos\lab_darbas\lab_darbas\obj\Debug\lab_darbas.exe
+C:\Users\rolandas\source\repos\lab_darbas\lab_darbas\obj\Debug\lab_darbas.pdb
+C:\Users\rolan\Desktop\c-tests-master\lab_darbas\lab_darbas\bin\Debug\lab_darbas.exe.config
+C:\Users\rolan\Desktop\c-tests-master\lab_darbas\lab_darbas\bin\Debug\lab_darbas.exe
+C:\Users\rolan\Desktop\c-tests-master\lab_darbas\lab_darbas\bin\Debug\lab_darbas.pdb
+C:\Users\rolan\Desktop\c-tests-master\lab_darbas\lab_darbas\obj\Debug\lab_darbas.csprojAssemblyReference.cache
+C:\Users\rolan\Desktop\c-tests-master\lab_darbas\lab_darbas\obj\Debug\lab_darbas.exe
+C:\Users\rolan\Desktop\c-tests-master\lab_darbas\lab_darbas\obj\Debug\lab_darbas.pdb

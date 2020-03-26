@@ -1,0 +1,7 @@
+ overhead value is  0.4570978
+10 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4627549
+100 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4630907
+1000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4851929
+10000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.7063856
+100000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 2.7643275
+ programos veikimo laikas be generavimo  0.8456513

@@ -1,0 +1,10 @@
+10 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4667018
+100 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4679326
+1000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.4972285
+10000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 0.7064844
+100000 Generatoriaus studentu kiekio i faila irasyma ir visos programos greitis 2.7632304
+10 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4633876
+100 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4626281
+1000 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4653419
+10000 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.4945685
+100000 Differentiator  studentu kiekio i faila irasyma ir visos programos greitis 0.7725709
