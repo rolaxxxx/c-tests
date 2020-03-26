@@ -103,7 +103,7 @@ namespace lab_darbas
                 studentas.vidurkis += Convert.ToDouble(ssize[7]);
                 studentas.vidurkis += Convert.ToDouble(ssize[8]);
                 studentas.vidurkis /= 7;
-
+                 
 
                 string temp = null;
 
