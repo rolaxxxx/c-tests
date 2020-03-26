@@ -7,7 +7,12 @@
   (v0.3):
   Panaudojau viena try catch kad patikrinti ar failas egzsituoja
   
-  
+   overhead value is  0.4779654
+    si reiksme yra pridedama prie kiekvieno is sekanciu failu nes testavau kaip ir pilna veikima su vienu failu atskirai
+    
+    si reiksme yra del to kad nuskaitau 100000 studentu faila priekyje programos 
+    
+    si reiksme taip pat priklauso nuo toliau testuojamu 3 konteineriu nes ji siektiek skiriasi naudojant kitus konteinerius 
   (v0.4):
   
   Testavau visos programos sparta + tam tikro kiekio studentu irasymas i faila ir po to ju isskirstymas i du naujus failus
@@ -31,10 +36,21 @@
 ```
   (v0.5):
 LinkedList time
-laikas uztrukes su pirmu konteineriu 0.6774243
+laikas uztrukes su pirmu konteineriu 0.9013774
 
 List time
-laikas uztrukes su pirmu konteineriu 0.6575518
+laikas uztrukes su pirmu konteineriu  0.8827923
 
 Queue time
-laikas uztrukes su pirmu konteineriu 0.7034509
+laikas uztrukes su pirmu konteineriu  0.850125
+
+
+
+
+
+
+V1.0
+
+
+1 strategija 
+nors as nenaudoju listu ar dar ko nors kur saugoti duomenis o iskart pasiunciu writerius kurie iraso i faila ir naudoju viena studento objekta bet vistiek turiu viena faila kuri paduodu ir ji skaidau i du atskirus tai manau kad tai is esmes atitinka ta strategija tai pameginsiu 2 strategijai pasalinti is paduoto failo reiksme kad tureciau paduota faila ir tik viena nauja faila ir tai bus antra strategija
