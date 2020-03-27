@@ -63,3 +63,8 @@ V1.0
 
 1 strategija 
 nors as nenaudoju listu ar dar ko nors kur saugoti duomenis o iskart pasiunciu writerius kurie iraso i faila ir naudoju viena studento objekta bet vistiek turiu viena faila kuri paduodu ir ji skaidau i du atskirus tai manau kad tai is esmes atitinka ta strategija tai pameginsiu 2 strategijai pasalinti is paduoto failo reiksme kad tureciau paduota faila ir tik viena nauja faila ir tai bus antra strategija
+
+
+2 strategija
+
+Meginau antraja strategija bet pastebejau kad si strategija iskarto yra per leta nes greiciau yra ideti i kita faila negu tiesiog bandyti trinti is esamo failo naudojant lista nes tiesiog is failo istrinti neiseina.
